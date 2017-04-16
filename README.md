@@ -1,7 +1,8 @@
 # os-file-system
 
-A project written in C from Operating Systems class to implement a block-store based file system using inodes and file descriptors.  
+A project written in C for an Operating Systems class to implement a block-store based file system using inodes and file descriptors.  
 
+### Features
 * Initializes a file system structure using inodes
 * Mount/unmount file system
 * Directory traversal
@@ -13,4 +14,5 @@ A project written in C from Operating Systems class to implement a block-store b
 * Delete files
 * Move files
 
+### Notes
 Implemented using test-based development and pre-existing libraries for dynamic arrays, bitmaps, and block store emulator.  
